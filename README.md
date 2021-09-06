@@ -34,6 +34,6 @@ La Transformada de Hough es una técnica que permite detectar geometrías en una
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaimundoLorca/roboticafcfm2021-2/blob/main/Auxiliar_2/Auxiliar_2.ipynb)
 
-[![Open In Youtube](https://raw.githubusercontent.com/RaimundoLorca/roboticafcfm2021-2/main/bin/Portada_aux2.png)](https://youtu.be/FmTW9XNySq8?t=1)
+[![Open In Youtube](https://raw.githubusercontent.com/RaimundoLorca/roboticafcfm2021-2/main/bin/Portada_aux2.2.png)](https://youtu.be/FmTW9XNySq8?t=1)
 
 

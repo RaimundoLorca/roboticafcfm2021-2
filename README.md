@@ -36,4 +36,9 @@ La Transformada de Hough es una técnica que permite detectar geometrías en una
 
 [![Open In Youtube](https://raw.githubusercontent.com/RaimundoLorca/roboticafcfm2021-2/main/bin/Portada_aux2.png)](https://youtu.be/FmTW9XNySq8?t=1)
 
+## Auxiliar 3: Feature Detection
+El Scale-Invariant Feature Transform (SIFT) es un algoritmo, desarrollado por D. Lowe en 2004, para la extracción de `features` de una imagen. En un sentido abstracto, las `features` de una imagen son patrones o regiones fácilmente detectables y trackeables, a partir de las cuales podemos identificar y reconocer toda de objetos presentes en la imagen. En este workshop utilizaremos la implementación de SIFT en OpenCV para identificar cartas Pokemon en una foto, a partir de una serie de cartas de referencia.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+
 

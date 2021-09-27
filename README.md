@@ -43,4 +43,6 @@ El Scale-Invariant Feature Transform (SIFT) es un algoritmo, desarrollado por D.
 
 [![Open In Youtube](https://raw.githubusercontent.com/RaimundoLorca/roboticafcfm2021-2/main/bin/Portada_aux3.png)](https://youtu.be/Oxyy1sY69nI)
 
+## Auxiliar 4: Genetic Algorithms
 
+Los algoritmos genéticos (GA) son una heurística de optimización, inspirada en la evolución biológica, donde los problemas pasan a ser modelados como la simulación de una población de individuos. Durante estas simulaciones, los indiviudos son sometidos a los principios fundamentales de la Teoría de Darwin como la heredabilidad genética, la recombinación genética aleatoria (mutaciones) y la supervivencia de los más aptos (selección natural). En este workshop implementaremos un algoritmo genético utilizando la librería especializada pyevolve para resolver un problema de maximización multivariable.

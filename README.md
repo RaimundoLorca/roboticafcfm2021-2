@@ -49,5 +49,5 @@ Los algoritmos genéticos (GA) son una heurística de optimización, inspirada e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaimundoLorca/roboticafcfm2021-2/blob/main/Auxiliar_4/Auxiliar_4.ipynb)
 
-[![Open In Youtube](https://img.youtube.com/vi/fvPj-z2rkxk/hqdefault.jpg)](https://youtu.be/fvPj-z2rkxk)
+[![Open In Youtube](https://img.youtube.com/vi/fvPj-z2rkxk/hq3.jpg)](https://youtu.be/fvPj-z2rkxk)
 

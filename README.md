@@ -57,5 +57,5 @@ Entre los algoritmos más comunes dentro del Machine Learning, se encuantran las
 
 En este workshop nos concentraremos en el campo del aprendizaje no supervizado y en particular, en el Reinforcement Learning. En el Reinforcement Learning, las Redes Neuronales son entrenadas (ajustan sus parámetros) para resolver una tarea específica mediante prueba y error, de la misma manera en que uno entrena un animal con recompensas ante aciertos y castigos ante equivocaciones. Una implementación directa de esta idea es la Neuroevolución donde los algoritmos evolutivos son combinados con Redes Neuronales para evolucionar una arquitectura de Red Neuronal capaz de cumplir con la tarea objetivo.
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaimundoLorca/roboticafcfm2021-2/blob/main/Auxiliar_5/Auxiliar_5.ipynb)
 

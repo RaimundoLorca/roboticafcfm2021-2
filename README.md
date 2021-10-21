@@ -59,3 +59,4 @@ En este workshop nos concentraremos en el campo del aprendizaje no supervizado y
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaimundoLorca/roboticafcfm2021-2/blob/main/Auxiliar_5/Auxiliar_5.ipynb)
 
+[![Open In Youtube](https://img.youtube.com/vi/4561F3xKOTs/hq2.jpg)](https://www.youtube.com/watch?v=4561F3xKOTs)

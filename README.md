@@ -61,7 +61,7 @@ En este workshop nos concentraremos en el campo del aprendizaje no supervizado y
 
 [![Open In Youtube](https://img.youtube.com/vi/4561F3xKOTs/hq2.jpg)](https://www.youtube.com/watch?v=4561F3xKOTs)
 
-## Auxiliar 5: Deep Learning
+## Auxiliar 6: Deep Learning
 
 En el campo del Aprendizaje Supervizado, los modelos son entrenados para inferir y aprender las features y los patrones contenidos en una colección de datos para desempeñar alguna tarea de clasificación y/o regresión. En este caso, para entrenar los modelos es necesario contar con una serie de datos de entrada X con los resultados deseados de estos Y, también llamados datos de salida. Para familiarizarnos con la implementación de estos modelos, en este workshop estudiaremos un caso sencillo de clasificación inspirado en el Playground de TensorFlow.
 

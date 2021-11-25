@@ -69,4 +69,10 @@ En el campo del Aprendizaje Supervizado, los modelos son entrenados para inferir
 
 [![Open In Youtube](https://img.youtube.com/vi/r0SWp3Mqoos/hq2.jpg)](https://www.youtube.com/watch?v=r0SWp3Mqoos)
 
+## Auxiliar 7: Convolutional Neural Networks
 
+Las Redes Neuronales Convolucionales (CNN) consisten en arquitecturas muy similares a las redes Dense o Fully Connected vistas en el workshop anterior, pues estás también se constituyen de de nodos con parámetros entrenables, como son los pesos y biases encargados de ponderar la información de entrada o input. No obstante, la estructura de las Redes Convolucionales está diseñada particularmente para interpretar imágenes y aprender, durante su entrenamiento, a extraer patrones y características espaciales (features) de estas mediante la aplicación secuencial de filtros.
+
+Con la finalidad de introducir la implementación de este tipo de arquitecturas en Tensorflow, en este workshop estudiaremos un caso de regresión simple, en donde entrenaremos un modelo CNN para detectar la posición (𝑥,𝑧) de una esfera en un espacio tridimensional.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaimundoLorca/roboticafcfm2021-2/blob/main/Auxiliar_7/Auxiliar_7.ipynb)

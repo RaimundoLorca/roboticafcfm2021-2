@@ -76,3 +76,5 @@ Las Redes Neuronales Convolucionales (CNN) consisten en arquitecturas muy simila
 Con la finalidad de introducir la implementación de este tipo de arquitecturas en Tensorflow, en este workshop estudiaremos un caso de regresión simple, en donde entrenaremos un modelo CNN para detectar la posición (𝑥,𝑧) de una esfera en un espacio tridimensional.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaimundoLorca/roboticafcfm2021-2/blob/main/Auxiliar_7/Auxiliar_7.ipynb)
+
+[![Open In Youtube](https://img.youtube.com/vi/YStDHFJ4BY8/hq1.jpg)](https://youtu.be/YStDHFJ4BY8?t=1)
